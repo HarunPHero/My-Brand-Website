@@ -1,0 +1,118 @@
+span{
+    color: #ee3591d7;
+    font-size: 40px;
+}
+
+body{
+       font-family: 'Poppins', sans-serif;
+}
+
+.first{
+       background-image: url(images/header-bg.png);
+       height: 600px;
+       background-size: contain;
+       text-align: justify;
+       padding: 70px 2px 2px 120px;
+       
+}
+
+.name-pic{
+        width: 40%;
+        float: left;
+                
+}
+
+.name-pic img{
+    width: 100%;
+}
+
+#hire{
+       text-decoration: none;
+       background-color: #ee3591d7;
+       padding: 10px 10px;
+       border-radius: 5px;
+       color: white;
+       font-weight: 700; 
+}
+       
+
+.second{
+       background-image: url(images/biography-bg.png);
+       height: 700px;
+       background-size: contain;
+       padding: 70px 5px 2px 5px;
+       
+}
+.biopic{
+       width: 40%;
+       float: left;
+       margin-left: 5%;
+       padding-left: 2%;
+}
+.biopic img{
+          width: 100%;
+}
+
+#cv{
+      text-decoration: none; 
+      background-color: #ee3591d7;
+      padding: 10px 20px; 
+      border-radius: 5px;
+      color: white;
+      font-weight: 700;
+}
+
+.three{
+       background-image: url(images/latest-work-bg.png);
+       height: 400px;
+       background-size: contain;
+       margin-top: 40px;
+       text-align: center;
+       font-size: 30px;
+}
+.work img{
+       width: 30%;
+       height: 300px;
+       float: left;
+       display: inline-block;
+       margin-left: 40px;
+       
+}
+
+.four{
+       background-image: url(images/footer-bg.png);
+       height: 600px;
+       background-size: contain;
+       padding-top: 40px;
+}
+
+.last{
+       text-align: center;
+}
+
+.client{
+       font-size: 40px;
+}
+.hero{
+       text-decoration: none;
+       background-color: #ee3591d7;
+       padding:20px 80px;
+       margin-left: 300px;
+       border-radius: 10px;
+       color: white;
+       width: 40%;
+       height: 100px;
+       
+       
+}
+#bold{
+       font-size:20px;
+       color: white;
+      
+}
+
+footer p{
+    text-align: center;
+    color: darkslategray;
+    font-weight: 700;
+}
